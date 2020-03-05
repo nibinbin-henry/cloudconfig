@@ -1,2 +1,3 @@
-name: nibinbin
-from: from
+name=nibinbin
+from=from
+server.port=7001
